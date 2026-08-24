@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".toggle-password").on("click",(function(e){e.preventDefault();var passInput=$(this).closest(".password-container").find("input"),type="password"==passInput.attr("type")?"text":"password";passInput.attr("type",type),$(this).toggleClass("fa-eye fa-eye-slash")}))}));
