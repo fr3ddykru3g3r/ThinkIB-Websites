@@ -1,0 +1,344 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K5VSFSN');
+    </script>
+    <!-- End Google Tag Manager -->
+	<meta http-equiv="x-ua-compatible" content="IE=Edge">
+	<title>DP Maths: Analysis &amp; Approaches: Differentiation basics</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="none"><meta name="robots" content="noindex, nofollow">
+	<!-- Removed by WebCopy --><!--<base href="https://www.student.thinkib.net">--><!-- Removed by WebCopy --><meta name="keywords" content="Maths: Analysis &amp; Approaches, ThinkIB.net, InThinking, IB, IBDP, IBMYP"><meta name="description" content="Differentiation basics. ThinkIB.net Maths: Analysis &amp; Approaches is an InThinking website.">
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="../../../css/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="../../../css/top-nav.min.css?v=202211301945" rel="stylesheet" media="screen">
+	<link href="../../../css/style.min.css?v=20230110" rel="stylesheet" media="screen">
+	<link href="../../../css/style-ib.min.css?v=20230105" rel="stylesheet" media="screen">
+	<link rel="stylesheet" type="text/css" href="../../../js/jq-fancybox/jquery.fancybox.min.css">
+	<link href="../../../js/jq-fancybox/jquery.fancybox.min.css" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" href="../../../css/side-nav.min.css?v=20220520"><link rel="stylesheet" href="../../../assets/css/ckeditor5-custom.css" type="text/css"><link rel="stylesheet" href="../../../css/std-access.min.css?v=20220504"><link rel="stylesheet" href="../../../css/snippets.min.css?v=202210181500"><link rel="stylesheet" href="../../../css/article.min.css?v=202212151220"><script src="../../../js/localdates.min.js?v=202009290900"></script><script src="../../../js/ifvisible.min.js"></script><script>ifvisible.setIdleDuration(300);</script><script>var tibSitename = "mathanalysis";</script>
+    <script>
+        const SITE_TAG = "ib"
+        const SITE_WEB = "ThinkIB.net"
+        const SITE_DOMAIN = "www.thinkib.net"
+        const SITE_URI = "https://thinkib.net"
+        const SITE_CLIENT_CODE = "TIB000001"
+        let imageThinker = "../../../img/header-thinker-ib.svg";
+        let imageStudent = "../../../img/header-student-thinkib.svg";
+    </script>
+<script>var userHash = "IB Docs (2)", userTicket = "*middle finger*";</script><script src="../../../js/user/local-stats.min.js?v=202102101800"></script><link rel="apple-touch-icon-precomposed" sizes="57x57" href="../../../img/favicon/student-thinkib/apple-touch-icon-57x57.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../../img/favicon/student-thinkib/apple-touch-icon-114x114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../../img/favicon/student-thinkib/apple-touch-icon-72x72.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../../img/favicon/student-thinkib/apple-touch-icon-144x144.png"><link rel="apple-touch-icon-precomposed" sizes="60x60" href="../../../img/favicon/student-thinkib/apple-touch-icon-60x60.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="../../../img/favicon/student-thinkib/apple-touch-icon-120x120.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="../../../img/favicon/student-thinkib/apple-touch-icon-76x76.png"><link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../img/favicon/student-thinkib/apple-touch-icon-152x152.png"><link rel="icon" type="image/png" href="../../../img/favicon/student-thinkib/favicon-196x196.png" sizes="196x196"><link rel="icon" type="image/png" href="../../../img/favicon/student-thinkib/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/png" href="../../../img/favicon/student-thinkib/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="../../../img/favicon/student-thinkib/favicon-16x16.png" sizes="16x16"><link rel="icon" type="image/png" href="../../../img/favicon/student-thinkib/favicon-128.png" sizes="128x128"><meta name="application-name" content="&nbsp;"><meta name="msapplication-TileColor" content="#FFFFFF"><meta name="msapplication-TileImage" content="https://www.student.thinkib.net/img/favicon/student-thinkib/mstile-144x144.png"><meta name="msapplication-square70x70logo" content="https://www.student.thinkib.net/img/favicon/student-thinkib/mstile-70x70.png"><meta name="msapplication-square150x150logo" content="https://www.student.thinkib.net/img/favicon/student-thinkib/mstile-150x150.png"><meta name="msapplication-wide310x150logo" content="https://www.student.thinkib.net/img/favicon/student-thinkib/mstile-310x150.png"><meta name="msapplication-square310x310logo" content="https://www.student.thinkib.net/img/favicon/student-thinkib/mstile-310x310.png">
+</head>
+
+<body onunload="" class="student-access">
+	    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5VSFSN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="header">
+    <div class="wmap">
+        <div class="layout-wrapper">
+            <div class="container-fluid">
+
+                <div class="pull-right visible-phone">
+                    <a href="https://www.inthinking.net">
+                        <img src="../../../img/header-logo.svg" style="height: 45px; width: auto">
+                    </a>
+                </div>
+                <div class="visible-phone" style="clear:both;"></div>
+
+                <div class="pull-left">
+                	<h1><a href="../../../index.html?lg=27105"><span style="font-size: .8em;font-family: 'Helvetica Narrow','Arial Narrow',Tahoma,Arial,Helvetica,sans-serif;font-stretch: condensed;letter-spacing: -1px">IBDP Maths: Analysis &amp; Approaches brought to you by the IB Docs (2) Team</span></a></h1>
+                    <p class="slogan hidden-phone"><span class="slogan"><em>InThinking</em> Subject Sites for teachers &amp; their classes</span></p>
+                	<p class="hidden-phone"><em>Group: IB Studentt<br>Teacher: Teach Yourself!</em></p>
+                </div>
+
+                <div class="pull-right text-right">
+                    <a class="hidden-phone" href="https://www.inthinking.net">
+                        <img src="../../../img/header-logo.svg" style="height: 70px; width: auto">
+                    </a>
+                    <div class="search"><a href="#" class="toggle-menu-search" data-toggle="dropdown" title="Search"><i class="fa fa-2x fa-search"></i></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<div id="topmenu">
+		<div class="layout-wrapper">
+			<div>
+				<nav class="top-nav"><ul class="level-0"><li><a href="../../../index.html?lg=27105"><i class="fa fa-home"></i> Home</a></li><li><a href="#">Basics</a></li><li><a href="#">Assessment</a></li><li><a href="#">1. Number & Algebra</a></li><li><a href="#">2. Functions</a></li><li><a href="#">3. Geometry & Trigonometry</a></li><li><a href="#">4. Statistics & Probability</a></li><li class="selected"><a href="#">5. Calculus</a></li><li><a href="#">Toolkit</a></li><li><a href="#">IB Core</a></li></ul></nav>
+			</div>
+		</div>
+	</div>
+
+    <nav id="nav-menu-search" class="shadow-md" style="display: none;">
+        <div class="layout-wrapper">
+            <form class="form-inline" role="search" method="get" action="mathanalysis/search">
+    <input id="nav-search" name="s" type="search" placeholder="Search Maths: Analysis &amp; Approaches..." value="">
+    <button class="btn btn-sm btn-primary" type="submit">
+        Search
+    </button>
+    <a href="#" class="toggle-menu-search" title="Close">
+        <i class="fa fa-lg fa-times gray"></i>
+    </a>
+</form>
+
+        </div>
+    </nav>
+
+	<div class="layout-wrapper">
+		<div id="container" class="container-fluid">
+			<div id="content">
+				<div class="row-fluid">
+					<div id="left-column" class="span3">    <div id="userbox">
+        <div class="dropdown" style="display: flex; align-items: center;">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle btn">
+                <img src="../../../img/user/e/IBRR.jpg" style="width: 16px; height: 16px; margin: -2px 0 0 0;">&nbsp;&nbsp;IB Docs (2) Team&nbsp;&nbsp;<i class="fa fa-caret-down"></i>
+            </a>
+            <ul class="dropdown-menu" id="menu1">
+                
+                <li><a href="https://www.student.thinkib.net/englishb?lg=42280"><i class="fa fa-caret-right fixwidth gray"></i> IBDP English B</a></li><li><a href="https://www.student.thinkib.net/history?lg=42233"><i class="fa fa-caret-right fixwidth gray"></i> IBDP History</a></li><li><a href="../../../index.html?lg=27105"><i class="fa fa-caret-right fixwidth gray"></i> IBDP Maths: Analysis &amp; Approaches</a></li><li class="divider"></li><li><a href="https://www.student.thinkib.net"><i class="fa fa-dashboard fixwidth colored"></i>    Dashboard</a></li><li><a href="https://www.student.thinkib.net/?pan=tasks"><i class="fa fa-pencil fixwidth colored"></i>    All tasks</a></li><li><a href="https://www.student.thinkib.net/std/profile-editor"><i class="fa fa-user fixwidth colored"></i>    My profile</a></li>
+                <li class="divider"></li>
+                <li>
+                    <a href="https://www.student.thinkib.net?logout=1">
+                        <i class="fa fa-power-off fixwidth"></i>    Log out
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div><div id="std-side-box" data-pid="1297" style="background: #f6f6f6; margin-bottom: 20px;"><div id="usernav" style="margin: 0; padding: 0px;">   <div class="row-fluid accordion-group" style="border: 0px; margin-bottom: 0px;">       <div class="" style="padding: 6px 4px 6px 8px; background: #E89C12;">       <a class="accordion-toggle std-header" style="color: #fff; text-shadow: 1px 1px 1px #444; padding: 0px; text-decoration: none; font-size: 16px; font-weight: 400; " data-toggle="collapse" data-parent="#usernav" href="#side-box-content-assignments">           <i class="fa fa-caret-right white" style="margin-left: 4px;"></i>           Tasks       </a>       </div>       <div id="side-box-content-assignments" class="accordion-body collapse">           <div class="accordion-inner" style="line-height: 1.7em;"><span style="background: #dbdbdb; text-shadow: none; font-size: .9em; padding: 5px 2px; margin-bottom: 6px;width: 100%;display: block;">&nbsp;Overdue tasks</span><ul style="margin: 0;"><li class="task"><span><a href="../../task/301550/einfuhrung-wahrscheinlichkeit.html"><i class="fa fa-file-text-o fa-fw colored fixwidth" title="Question sets"></i> Einführung Wahrscheinlichkeit </a></span></li><li class="task"><span><a href="../../task/417720/sequences-series.html"><i class="fa fa-file-text-o fa-fw colored fixwidth" title="Question sets"></i> sequences & series </a></span></li></ul></div></div></div></div></div><br><div id="topicsnav" style="margin: 0; padding: 0px;"> <div class="row-fluid accordion-group" style="border: 0px; margin-bottom: 0px;"> <div style="padding: 6px 4px 6px 8px; background: #204a87;"> <a class="accordion-toggle std-header" style="color: #fff; text-shadow: 1px 1px 1px #444; padding: 0px; text-decoration: none; font-size: 16px; font-weight: 400;" data-toggle="collapse" data-parent="#topicsnav" href="#side-box-topics-list"> <i class="fa fa-caret-right fa-rotate-90 white" style="margin-left: 4px;"></i> Topics </a> <span id="sidetreecontrol"> <a title="Collapse all" rel="collapse" href="#"> <i class="fa fa-minus-circle"></i> </a> <a title="Expand all" rel="expand" href="#"> <i class="fa fa-plus-circle"></i> </a> </span> </div> <div id="side-box-topics-list" class="accordion-body in collapse"> <div class="accordion-inner" style="line-height: 1.7em; padding: 0;"> <nav class="side-nav" id="sidemenu"><ul class="level-0 always-expanded"><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="Basics">Basics</a></li><ul class="level-1 "><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../35084/syllabus-content-sn.html" title="Syllabus content (SN)">Syllabus content (SN)</a></li></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="Assessment">Assessment</a></li><ul class="level-1 "><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../27729/problem-of-the-week.html" title="Problem of the Week">Problem of the Week</a></li><ul class="level-2 "><li class=" parent" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="P.o.t.W. Problems-Teachers">P.o.t.W. Problems-Teachers</a></li><ul class="level-3 "><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../31711/potw-1.html" title="P.o.t.W. #1">P.o.t.W. #1</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../31747/potw-1-solution.html" title="P.o.t.W. #1 Solution">P.o.t.W. #1 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../31776/potw-2.html" title="P.o.t.W. #2">P.o.t.W. #2</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../31787/potw-2-solution.html" title="P.o.t.W. #2 Solution">P.o.t.W. #2 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../31800/potw-3.html" title="P.o.t.W. #3">P.o.t.W. #3</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../31802/potw-3-solution.html" title="P.o.t.W. #3 Solution">P.o.t.W. #3 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../31931/potw-4.html" title="P.o.t.W. #4">P.o.t.W. #4</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../31955/potw-4-solution.html" title="P.o.t.W. #4 Solution">P.o.t.W. #4 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../32074/potw-5.html" title="P.o.t.W. #5">P.o.t.W. #5</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../32075/potw-5-solution.html" title="P.o.t.W. #5 Solution">P.o.t.W. #5 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../32326/potw-6.html" title="P.o.t.W. #6">P.o.t.W. #6</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../32356/potw-6-solution.html" title="P.o.t.W. #6 Solution">P.o.t.W. #6 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../32548/potw-7.html" title="P.o.t.W. #7">P.o.t.W. #7</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../34281/potw-7-solution.html" title="P.o.t.W. #7 Solution">P.o.t.W. #7 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../34382/potw-8.html" title="P.o.t.W. #8">P.o.t.W. #8</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../34429/potw-8-solution.html" title="P.o.t.W. #8 Solution">P.o.t.W. #8 Solution</a></li></ul><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../34534/potw-9.html" title="P.o.t.W. #9">P.o.t.W. #9</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../34548/potw-9-solution.html" title="P.o.t.W. #9 Solution">P.o.t.W. #9 Solution</a></li></ul><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../35146/potw-10.html" title="P.o.t.W. #10">P.o.t.W. #10</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../35299/potw-11.html" title="P.o.t.W. #11">P.o.t.W. #11</a></li><li class=" parent" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../35951/potw-12.html" title="P.o.t.W. #12">P.o.t.W. #12</a></li><ul class="level-4 "><li class="" style="padding-left: 56px"><i class="expander fa fa-caret-right "></i><a class="" href="../35963/potw-12-solution.html" title="P.o.t.W. #12 Solution">P.o.t.W. #12 Solution</a></li></ul><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../37077/potw-13.html" title="P.o.t.W. #13">P.o.t.W. #13</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../40859/potw-14.html" title="P.o.t.W. #14">P.o.t.W. #14</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../42951/potw-15.html" title="P.o.t.W. #15">P.o.t.W. #15</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../45539/potw-16.html" title="P.o.t.W. #16">P.o.t.W. #16</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../45688/potw-17.html" title="P.o.t.W #17">P.o.t.W #17</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../46552/potw-18.html" title="P.o.t.W. #18">P.o.t.W. #18</a></li></ul><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../35145/potw-problems-students.html" title="P.o.t.W. Problems-Students">P.o.t.W. Problems-Students</a></li></ul><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="IA - Exploration">IA - Exploration</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27741/exploration-student-guide.html" title="Exploration Student Guide">Exploration Student Guide</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../33386/math-articles-for-students.html" title="Math Articles for Students">Math Articles for Students</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27736/exploration-ia-ideas.html" title="Exploration (IA) Ideas">Exploration (IA) Ideas</a></li></ul><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Exams">Exams</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27751/review-exams.html" title="Review Exams">Review Exams</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27755/exam-tips-for-students.html" title="Exam Tips for Students">Exam Tips for Students</a></li></ul><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Challenge Problems">Challenge Problems</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27758/3-circles-inside-a-circle.html" title="3 Circles Inside a Circle">3 Circles Inside a Circle</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27759/half-the-area.html" title="Half the Area">Half the Area</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27760/area-relationship-parabola-rectangle.html" title="Area Relationship - Parabola & Rectangle">Area Relationship - Parabola & Rectangle</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27761/equilateral-triangle-interior-point-property.html" title="Equilateral Triangle - Interior Point Property">Equilateral Triangle - Interior Point Property</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27762/exponents-logarithms-challenge-qs.html" title="Exponents & Logarithms - Challenge Qs">Exponents & Logarithms - Challenge Qs</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27763/probability-of-3-pieces-forming-a-triangle.html" title="Probability of 3 Pieces Forming a Triangle">Probability of 3 Pieces Forming a Triangle</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27764/quartic-with-three-real-zeros.html" title="Quartic with Three Real Zeros">Quartic with Three Real Zeros</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27765/radius-of-the-earth.html" title="Radius of the Earth">Radius of the Earth</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27766/trigonometry-proof-1.html" title="Trigonometry Proof 1">Trigonometry Proof 1</a></li><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27767/volume-of-a-torus.html" title="Volume of a Torus">Volume of a Torus</a></li></ul></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="1. Number & Algebra">1. Number & Algebra</a></li><ul class="level-1 "><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Sequences & series">Sequences & series</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../34029/partial-sums-race.html" title="Partial sums race">Partial sums race</a></li></ul><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../34833/1a-sequences-series-intro-sn.html" title="1A. Sequences & series intro (SN)">1A. Sequences & series intro (SN)</a></li><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../34896/1b-arithmetic-sequences-series-sn.html" title="1B. Arithmetic sequences & series (SN)">1B. Arithmetic sequences & series (SN)</a></li><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../35096/1c-geometric-sequences-series-sn.html" title="1C. Geometric sequences & series (SN)">1C. Geometric sequences & series (SN)</a></li><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../36432/permutations-combinations-sn.html" title="Permutations & Combinations (SN)">Permutations & Combinations (SN)</a></li></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="2. Functions">2. Functions</a></li><ul class="level-1 "><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Basics/composite & inverse functions">Basics/composite & inverse functions</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../36072/inverse-functions.html" title="Inverse functions">Inverse functions</a></li></ul><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Quadratic functions & equations">Quadratic functions & equations</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../34108/factored-quadratic-applet.html" title="Factored quadratic (applet)">Factored quadratic (applet)</a></li></ul><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../34022/transformations-of-graphs.html" title="Transformations of graphs">Transformations of graphs</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../34036/other-changes-to-a-graph.html" title="Other changes to a graph">Other changes to a graph</a></li></ul></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="3. Geometry & Trigonometry">3. Geometry & Trigonometry</a></li><ul class="level-1 "><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Triangle trig & applications">Triangle trig & applications</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../34020/ambiguous-case-side-side-angle-ssa.html" title="Ambiguous case (side-side-angle SSA)">Ambiguous case (side-side-angle SSA)</a></li></ul></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="4. Statistics & Probability">4. Statistics & Probability</a></li><ul class="level-1 "><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../34306/probability-introduction-sn.html" title="Probability introduction (SN)">Probability introduction (SN)</a></li><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Probability of events (TN)">Probability of events (TN)</a></li><ul class="level-2 "><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../45593/probability-complement-approach.html" title="Probability - complement approach">Probability - complement approach</a></li></ul></ul><li class="ancestor parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right fa-rotate-90"></i><a class="" href="#" title="5. Calculus">5. Calculus</a></li><ul class="level-1 expanded"><li class="current parent" style="padding-left: 14px"><i class="expander fa fa-caret-right fa-rotate-90"></i><a class="std-disabled" href="#" title="Differentiation basics">Differentiation basics</a></li><ul class="level-2 expanded"><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../34031/sketch-the-derivative.html" title="Sketch the derivative">Sketch the derivative</a></li></ul><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../33944/integration-by-substitution-tutorial.html" title="Integration by substitution (tutorial)">Integration by substitution (tutorial)</a></li><li class="" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="" href="../34015/integration-by-parts-tutorial.html" title="Integration by parts (tutorial)">Integration by parts (tutorial)</a></li></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="Toolkit">Toolkit</a></li><ul class="level-1 "><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Technology">Technology</a></li><ul class="level-2 "><li class=" parent" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27843/ti-nspire-activities.html" title="TI-Nspire Activities">TI-Nspire Activities</a></li><ul class="level-3 "><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../27844/prior-learning-topics.html" title="Prior Learning Topics">Prior Learning Topics</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../27845/algebra-functions-equations.html" title="Algebra + Functions & Equations">Algebra + Functions & Equations</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../27846/trigonometry-vectors.html" title="Trigonometry + Vectors">Trigonometry + Vectors</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../27847/statistics-probability.html" title="Statistics & Probability">Statistics & Probability</a></li><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../27848/calculus.html" title="Calculus">Calculus</a></li></ul><li class="" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="" href="../27849/ti-nspire-top-tips.html" title="TI-Nspire Top Tips">TI-Nspire Top Tips</a></li></ul></ul><li class=" parent std-toplevel" style="padding-left: 4px"><i class="expander fa fa-caret-right "></i><a class="" href="#" title="IB Core">IB Core</a></li><ul class="level-1 "><li class=" parent" style="padding-left: 14px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Theory of Knowledge">Theory of Knowledge</a></li><ul class="level-2 "><li class=" parent" style="padding-left: 28px"><i class="expander fa fa-caret-right "></i><a class="std-disabled" href="#" title="Invented or Discovered?">Invented or Discovered?</a></li><ul class="level-3 "><li class="" style="padding-left: 42px"><i class="expander fa fa-caret-right "></i><a class="" href="../45589/the-invention-of-logarithms.html" title="The invention (?) of logarithms">The invention (?) of logarithms</a></li></ul></ul></ul></ul></nav> </div> </div> </div> </div><div style="margin-top: 20px;"><style type="text/css">
+  .studyib-link {
+    display: inline-block;
+    overflow: hidden;
+    font-size: 1.2em;
+    font-weight: normal;
+    margin: 10px;
+    transition: transform .2s; /* Animation */
+  }
+  #left-column .studyib-link {
+    font-size: 1em;
+    font-weight: normal;
+    margin: 5px;
+    transition: transform .2s; /* Animation */
+  }
+  #left-column .studyib-advert h2 {
+    font-size: 1.35em;
+  }
+  .studyib-link:hover {
+    transform: scale(1.2);
+  }
+  .studyib-link > img {
+    width: 2em; height: 2em;
+    margin: 0;
+    float: left;
+  }
+  .embed-responsive {
+    position: relative;
+    display: block;
+    height: 0;
+    padding: 0;
+    margin: 15px 0;
+  }
+  .embed-responsive-16by9 {
+    padding-bottom: 56.25%;
+  }
+  .embed-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    border: 0;
+  }
+
+  .studyib-advert {
+    padding: 20px; 
+    background: #E7EDF5; 
+    border: solid 1px #EFF; 
+    /* margin-left: 70px; */
+  }
+  .studyib-advert .heading {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+  }
+  .studyib-advert .heading img {
+    margin-right: 15px;
+  }
+  .studyib-advert .heading span {
+    color: #444
+  }
+  .studyib-advert h2, 
+  .studyib-advert h3 {
+    margin: 0;
+  }
+  .studyib-advert .body {
+    margin-top: 20px;
+  }
+</style>
+
+<div class="studyib-advert">
+    <div class="heading">
+      <img src="../../../img/header-thinker-sib.svg" height="50" width="50" class="pull-left" alt="InThinking Revision Sites">
+      <div>
+        <h2>INTHINKING REVISION SITES</h2>
+        <span><em>Own your learning</em></span>
+      </div>
+    </div>
+    <div class="body">
+      <p>Why not also try our independent learning self-study &amp; revision websites for students?</p>
+      <p>We currenly offer the following DP Sites: Biology, Chemistry, English A Lang &amp; Lit, Maths A&amp;A, Maths A&amp;I, Physics, Spanish B</p>
+      <p>
+        <em>&quot;The site is great for revising the basic understandings of each topic quickly. 
+        Especially since you are able to test yourself at the end of each page and easily see where yo need to improve.&quot;</em>
+      </p>
+      <p><em>&quot;It is life saving... I am passing IB because of this site!&quot;</em></p>
+      <p>Basic (limited access) subscriptions are FREE. Check them out at:</p>
+      <div class="text-center">
+        <h3>
+          <a href="//studyib.net">www.StudyIB.net</a>
+        </h3>
+      </div>
+    </div>
+</div>
+</div></div><!-- /#left-column-->
+					<div id="main-column" class="span9">    <article id="differentiation-basics" style="margin-top: 16px;">
+        <h1 class="section-title">Differentiation basics</h1>
+        <ul class="breadcrumb"><li><a title="Home" href="../../../index.html"><i class="fa fa-home"></i></a><span class="divider">/</span></li><li><span class="gray">5. Calculus</span><span class="divider">/</span></li><li><span class="active">Differentiation basics</span></li></ul>
+        
+        <div class="row-fluid">
+            <section class="span12" id="main-content">
+                <div id="access-denied-box"><div class="warning"><i class="fa fa-warning"></i></div><p>You don't have access.</p></div><section id="selected-pages"></section>
+            </section>
+        </div>
+    </article>
+    </div><!-- /#main-column -->
+				</div>
+			</div><!-- /#content -->
+		</div>
+	</div>
+
+    <div id="footer" class="student-access">
+    <div class="wmap">
+        <div class="layout-wrapper">
+            <p>
+                &copy; <script>document.write(new Date().getFullYear())</script> <em>InThinking / IB Documents (2) Team | Version: 31.01.2023</em>
+                &nbsp;| &nbsp;
+                <a target="_self" href="https://thinkib.net/subscribe/about-us">
+                    About us
+                </a>
+                &nbsp;|&nbsp;
+                 <a target="_self" href="https://thinkib.net/subscribe/legal">
+                    Legal
+                </a>
+                &nbsp;|&nbsp;
+                <a target="_self" href="https://thinkib.net/subscribe/contact">
+                    Contact
+                </a>
+            </p>
+            <p>
+                <a class="social" target="_blank" href="https://twitter.com/#!/inthinker">
+                    <img src="../../../social/twitter-square.svg"> Twitter
+                </a>
+                <a class="social" target="_blank" href="https://www.facebook.com/inthinking.net">
+                    <img src="../../../social/facebook-square.svg"> Facebook
+                </a>
+                <a class="social" target="_blank" href="https://www.linkedin.com/company/9s4we1">
+                    <img src="../../../social/linkedin-square.svg"> LinkedIn
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+<input id="tzoffset" type="hidden" value="-3600"><div id="modal-session-expired" class="modal fade" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 style="margin-top: 0">Your session has expired</h3>
+            </div>
+            <div class="modal-body" style="padding: 10px;">
+                <p>You will have to reload and log in again.</p>
+            </div>
+            <div class="modal-footer">
+                <a id="session-expired" class="btn btn-danger pull-right" href="#">
+                    <i class="fa fa-refresh"></i>&nbsp;&nbsp;Reload
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<!-- Loading scripts at the end of the body means faster page loading -->
+	<script src="../../../js/jquery-1.10.2.min.js"></script>
+	<script src="../../../js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../../../js/jq-fancybox/jquery.fancybox.pack.js"></script>
+	<script src="../../../js/sidemenu/sidemenu.min.js?v=202011301145"></script><script src="../../../js/std-access/std-assignments-utils.min.js?v=202211281800"></script><script src="../../../js/std-access/std-comments-utils.min.js?v=202211281800"></script><script src="../../../js/std/std-task-utils.min.js?v=202211151130"></script><script src="../../../js/jq-mark.js/jquery.mark.min.js"></script><!-- MathJax only to render Math ML -->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>-->
+<script src="../../../ajax/libs/mathjax/2.7.0/MathJax.js?config=MML_HTMLorMML"></script>
+<style>
+    .math-tex {
+        font-size: 1.15em !important;
+    }
+
+    .math-tex span.ML__text {
+        /*font-family: inherit !important;*/
+    }
+    .ML__text + .ML__mathit {
+        margin-left: 0 !important;
+    }
+
+    .math-tex img, .math-tex + img, span img {
+        box-shadow: none;
+        margin: 0;
+    }
+</style>
+<script src="../../../mathlive%400.86.0/dist/mathlive.min.js" async="" defer=""></script>
+<script>
+    window.addEventListener('load',
+        () => MathLive.renderMathInDocument()
+    );
+</script>
+<script>var activityLogEnabled=false;</script><script src="../../../js/header-circle.min.js?v=20220113"></script><script type="text/javascript" src="../../../js/cookies.min.js"></script>
+<script type="text/javascript">
+// The cookies alert
+if (! readCookie("displayCookieConsent") && ! readCookie("y") ) {
+    var cookieMSG = "We use cookies. By continuing to use this website you are giving consent to cookies being used.";
+    setTimeout(function() {
+        $.ajax({
+            cache: true,
+            url: "js/cookiechoices.js",
+            dataType: "script",
+            success: function () {
+                cookieChoices.showCookieConsentBar(cookieMSG, 'close', 'Read more', "mathanalysis/legal#cookies");
+            }
+        });
+    }, 2000);
+}
+</script><script>var sAJAX='/pages/activity/user-stats-page.php?t=&x=21621';var sData='0ebg+I>F/4F[IxZ)+I>F+NuComcMhIn2UjpCqiT2UM]8]V]MIxZYhNq|qIbcoO>1+I>1oif)+|wMhNnM/[g[2jT[qvZ)+Ncs/4F[2j>QqvTsLx/6/|Lco|Te+NSahNk[54rfUxbeqIn9LIb4qTZ80Ipc/4F[2vwOqt/6/Obc2iZQ2|ncIicY/4F[]Mkg]M][ak==';var loopSecs = 30;var lsKey = 'cd15304c51580bce6a423bb90b58edf2';</script><script src="../../../js/user/user-stats-page.min.js?v=202102101800"></script><script>var sessionUpdateSecs = 600;</script><script type="text/javascript" src="../../../js/session-updater.js?v=20200831"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			function padLeft(str,max){return str.length<max?padLeft("0"+str,max):str}function padRight(str,max){return str.length<max?padRight(str+"0",max):str}$("body").on("click",'a[href="#"], a.fancybox-nav, a[data-toggle="tab"], a[data-toggle="dropdown"], a[data-toggle="collapse"], a[data-toggle="modal"]',(function(e){e.preventDefault()}));var topmenuOffset=0,topmenuHeight=0;function fixDiv(t,h){$(window).scrollTop()<topmenuOffset||$("#topmenu ul.level-1").is(":visible")?($("#topmenu").css({position:"",width:""}),$("#topmenu").removeClass("fixed-top"),$("body").css({"padding-top":"0"})):($("#topmenu").css({position:"fixed",top:"0",width:$("#topmenu").width()+"px"}),$("#topmenu").addClass("fixed-top"),$("body").css({"padding-top":topmenuHeight+"px"}))}function fixSearchNav(){var searchMenuTop=topmenuOffset+topmenuHeight,searchMenuH=$("#nav-menu-search").is(":visible")?$("#nav-menu-search").outerHeight():0;if($(window).scrollTop()>searchMenuTop-topmenuHeight){var borderBottomWidth=parseInt($("#topmenu").css("borderBottomWidth"))+1;$("#nav-menu-search").css({position:"fixed",top:topmenuHeight+borderBottomWidth+"px",left:"0",right:"0"}),$("#nav-menu-search").addClass("fixed-top"),$("body").css("padding-top",topmenuHeight+searchMenuH+"px")}else $("#nav-menu-search").css({position:""}),$("#nav-menu-search").removeClass("fixed-top"),$("body").css("padding-top","0")}$("#topmenu").length&&(topmenuOffset=$("#topmenu").offset().top,topmenuHeight=$("#topmenu").outerHeight(),fixDiv(),$(window).scroll((function(){fixDiv(),fixSearchNav()}))),$("a.toggle-menu-search").on("click",(function(e){e.preventDefault(),$("#nav-menu-search").slideToggle("fast",(function(){$(this).find('input[name="s"]').focus()}))}));var menuH=$("#topmenu").height(),itemH=$("#topmenu > nav > ul > li").height();function fancyScrollTo(id){$("html, body").animate({scrollTop:$("#"+id).offset().top-300},300)}function printSectionBlog(){var w=$(window).width()/2,h,windowSettings="height="+($(window).height()-100)+", width="+w+", left=0, top=0, resizable=no, ";windowSettings+="scrollbars=yes, toolbar=no, menubar=no, location=no, ",windowSettings+="directories=no, status=yes";var myWindow=window.open("","Page printer",windowSettings),containerHtml=["<html>","<head>","<title>Page printer</title>",'<link rel="stylesheet" type="text/css" href="'+window.location.origin+'/css/style.min.css?v=202211152130">','<link rel="stylesheet" type="text/css" href="'+window.location.origin+"/css/style"+SITE_TAG+'.min.css?v=202104061357">','<link rel="stylesheet" type="text/css" href="'+window.location.origin+'/css/snippets.min.css?v=202210181500">','<link rel="stylesheet" type="text/css" href="'+window.location.origin+'/css/article.min.css?v=202210181500">',"</head>","<body>",$("section#main-content").html().replace(/<span\sclass="MJX_Assistive_MathML".*?<\/span>/g,""),"</body>","</html>"].join("");containerHtml=containerHtml.replace(/src="files\//gi,'src="'+window.location.origin+"/files/"),myWindow.document.write(containerHtml),myWindow.document.close(),myWindow.focus(),setTimeout((function(){$.when(myWindow.print()).then(myWindow.close())}),1e3)}function PopupPrint(target){window.print()}$("#topmenu > nav > ul > li").each((function(){if(menuH>itemH&&$(this).position().top<1){var i=itemH+1;$(this).find("ul:first").css("margin-top","-"+i+"px")}})),$("#topmenu > nav > ul > li").on("mouseenter mouseleave",(function(e){var submenu=$("ul:first",this),submenuW=submenu.width();$(this).offset().left+submenuW>$(window).width()&&(submenu.css("right","0"),submenu.find("ul").each((function(){if(!$(this).hasClass("fixed")){var l=$(this).width()+submenuW;$(this).css("margin-left","-"+l+"px"),$(this).addClass("fixed")}})))})),$("a.showhider").click((function(e){e.preventDefault();var box="#"+$(this).attr("rel"),show='<i class="fa fa-eye"></i>',hide='<i class="fa fa-eye-slash"></i>';$(box).slideToggle("fast"),$(this).html($(this).html()==show?hide:show),$(this).attr("title","Show"==$(this).attr("title")?"Hide":"Show")})),$("a.scroll-to").click((function(e){e.preventDefault();var n=$("#"+$(this).data("target")).offset().top-70;$("html, body").animate({scrollTop:n},300)})),$("a.print-section-blog").click((function(e){e.preventDefault(),printSectionBlog()})),$(".print-button").click((function(e){var target;e.preventDefault(),PopupPrint("#"+$(this).data("target-id"))})),$(".alert.alert-success").delay(6e3).hide("fast",fixDiv());var fancyParent=1==$("body").find($("#main-article")).length?"#main-article":"body",fancyOptions={loop:!1,openEffect:"elastic",closeEffect:"elastic",nextEffect:"fade",prevEffect:"fade",parent:fancyParent,helpers:{title:{type:"inside"}}};if($("ul.gallery").each((function(){var rel=$(this).find("li:first-child > a:first-child").attr("rel");$('ul.gallery a.fancy[rel="'+rel+'"]').fancybox(fancyOptions)})),$(".carousel.slide").each((function(){var rel="gallery-"+$(this).data("id");$('.carousel.slide a.fancy[rel="'+rel+'"]').fancybox(fancyOptions)})),$("img.pop").parent("a").each((function(){$(this).attr("title",$(this).children("img").attr("alt"))})),$("img.pop").parent("a").fancybox({loop:!1,helpers:{title:{type:"inside"}}}),!are_cookies_enabled()){var msg='<div class="alert alert-error"><i class="fa fa-warning"></i> Your browser does not accept cookies from this site. Please enable cookies to log in.</div><div class="alert alert-info"><i class="fa fa-question-circle"></i> Enabling cookies in <a target="_blank" style="margin: 0; padding: 0;" href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">Firefox</a>, <a target="_blank" style="margin: 0; padding: 0;" href="https://support.google.com/accounts/answer/61416?hl=en">Chrome</a>, <a target="_blank" style="margin: 0; padding: 0;" href="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies">Explorer</a></div>';$("#modal-login .modal-header").append(msg)}if($(".panel-expandable > .panel-heading").click((function(e){e.preventDefault();var panel=$(this).closest(".panel-expandable"),expandables=panel.hasClass("panel-has-footer")?".panel-body, .panel-footer":".panel-body";panel.find(".panel-body").is(":visible")?(panel.find(expandables).slideUp("fast"),panel.find(".expander > .fa-minus").removeClass("fa-minus").addClass("fa-plus")):(panel.find(expandables).slideDown("fast"),panel.find(".expander > .fa-plus").removeClass("fa-plus").addClass("fa-minus"))})),$("#modal-find-out-more").css({width:.8*$("#container").width()+"px","margin-left":-.4*$("#container").width()+"px"}),$(".modal-xxl").length){var modalTopPos=Math.round(.07*$(window).height());$(window).width()>1200&&$(".modal-xxl").css({"max-width":$(window).width()>960?"960px":$(window).width()+"px",width:$(window).width()>960?"960px":$(window).width()+"px","margin-left":$(window).width()>960?"-480px":Math.round($(window).width()/2)}),$(".modal-xxl").css("top",modalTopPos+"px"),$(".modal-xxl").on("shown",(function(){var mHeaderH=$(this).find(".modal-header").outerHeight(),mBody=$(this).find(".modal-body"),mBodyH=mBody.outerHeight(),mFooterH=$(this).find(".modal-footer").outerHeight(),bottomOfTheModal=modalTopPos+mHeaderH+mBodyH+mFooterH;if(bottomOfTheModal<$(window).height())mBodyH+=$(window).height()-bottomOfTheModal-60,mBody.css("max-height",mBodyH+"px");else{$(window).scrollTop(0),modalTopPos=10,$(".modal-xxl").css("top",modalTopPos+"px"),bottomOfTheModal=modalTopPos+mHeaderH+mBodyH+mFooterH,availableScroll=bottomOfTheModal-$(window).height()+modalTopPos;var lastPos=-1;$(window).on("scroll",(function(){var s=$(window).scrollTop()>availableScroll?availableScroll:$(window).scrollTop();newPos=modalTopPos-s,newPos!=lastPos&&($(".modal-xxl").css("top",newPos+"px"),lastPos=newPos)}))}}))}function popupHelp(url,title,w,h){var dualScreenLeft=void 0!==window.screenLeft?window.screenLeft:screen.left,dualScreenTop=void 0!==window.screenTop?window.screenTop:screen.top,width,height,left=(window.innerWidth?window.innerWidth:document.documentElement.clientWidth?document.documentElement.clientWidth:screen.width)/2-w/2+dualScreenLeft,top=(window.innerHeight?window.innerHeight:document.documentElement.clientHeight?document.documentElement.clientHeight:screen.height)/2-h/2+dualScreenTop,newWindow=window.open(url,title,"menubar=no,location=no,resizable=0, width="+w+", height="+h+", top="+top+", left="+left);return window.focus&&(newWindow?newWindow.focus():$('<div class="alert alert-warning" style="margin-bottom: 0px;"><p class="help-block">Pop Up blocked. Please allow Pop Ups in your browser settings.</p></div>').insertBefore("body")),newWindow}if($(".open-student-access-help").click((function(e){e.preventDefault();var h=$(window).height()-20,w=$(window).width()<1280?$(window).width():1280;popupHelp(helpURL,"Student Access Help",w,h)})),$(".pop-up-help").click((function(e){e.preventDefault();var url=$(this).attr("href"),title=$(this).data("title"),h=$(window).height()-20,w;popupHelp(url,title,$(window).width()<1280?$(window).width():1280,h)})),$("section.tib-hiddenbox").length){var count=0;$($("section.tib-hiddenbox").get().reverse()).each((function(){var box=$(this),revealButton;$("<a />").attr("class","btn showhider").attr("rel","hiddenBoxContent"+count).attr("style","margin-bottom: 0;").html('<i class="fa fa-eye"></i>').insertBefore(box);var newContainer=$("<div />").attr("class","hidden-content").attr("id","hiddenBoxContent"+count).html(box.html());newContainer.hide(),newContainer.insertBefore(box),box.remove(),count++})),$("a.showhider").on("click",(function(e){var container=$("#"+$(this).attr("rel"));container.is(":hidden")?(container.fadeIn("fast"),$(this).html('<i class="fa fa-eye-slash"></i>')):(container.fadeOut("fast"),$(this).html('<i class="fa fa-eye"></i>'))}))}
+			$('img.ico[src="/img/icons/comments.png"]').each((function(){var t=$(this).attr("title");$(this).removeAttr("title"),$(this).wrap('<a class="tib-popover" href="#" data-content="'+t+'" data-togle="popover" data-placement="top" />')})),$('img.ico[src="../../../img/icons/comments.png"]').each((function(){var t=$(this).attr("title");$(this).removeAttr("title"),$(this).wrap('<a class="tib-popover" href="#" data-content="'+t+'" data-togle="popover" data-placement="top" />')})),$(".tib-popover").popover({html:!0,trigger:"hover",delay:{show:300,hide:300},placement:function(t,e){var o=$(e).position();return o.top>200?"top":o.left<515?"right":o.top<200?"bottom":o.left>515?"left":"top"}}).click((function(t){t.preventDefault()}));var carouselTime=6500;$("div.carousel.slide").carousel({interval:carouselTime}),$(".tib-indicators > img").click((function(){var t=$(this).index(),e;$(this).closest(".carousel.slide").carousel(t)})),setShowResultsListeners($("#container")),addMarksThreads($("#modal-std-write"));
+$('a.btn.showhider').click(function(e) {
+    var showHiderId = $( this ).attr('rel');
+    if( $('#'+showHiderId).find('iframe').length > 0 ) {
+        $('#'+showHiderId+' iframe').each(function() {
+            if ( $(this).attr('src').indexOf('.pdf') > 0 ) {
+                this.contentWindow.location.reload(true);
+            }
+        });
+    }
+});
+
+		});
+	</script>
+</body>
+</html>

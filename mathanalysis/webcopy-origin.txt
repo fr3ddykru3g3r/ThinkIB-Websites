@@ -1,0 +1,1840 @@
+Uri: http://wesclark.com/rrr/rugby_and_math.pdf
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\rrr\rugby_and_math.pdf
+Content Type: application/pdf
+
+Uri: https://assets.inthinking.net/social/facebook-square.svg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\social\facebook-square.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.inthinking.net/social/linkedin-square.svg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\social\linkedin-square.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.inthinking.net/social/twitter-square.svg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\social\twitter-square.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=MML_HTMLorMML
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ajax\libs\mathjax\2.7.0\MathJax.js
+Content Type: application/javascript
+
+Uri: https://education.ti.com/images/online_courses/t3/calculus2/mod28/568-74_nov.pdf
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\images\online_courses\t3\calculus2\mod28\568-74_nov.pdf
+Content Type: application/pdf
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/basics/syllabus-content2-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\basics\syllabus-content2-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/calculus/images/intparts_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\calculus\images\intparts_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/calculus/images/leibniz_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\calculus\images\leibniz_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/exploration/ia_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\ia_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/functions/quad_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\quad_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/functions/transformations/trans_img_1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\trans_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/geometry---trig/triangle-trig/tri_trig_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\geometry---trig\triangle-trig\tri_trig_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/seq-series-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\seq-series-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/prob-of-week/potw_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\potw_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-events/prob_img01.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-events\prob_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/images/AA_2012/Basics/Technology/tech_page_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\AA_2012\Basics\Technology\tech_page_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/images/AA_2012/EE - TOK/TOK/TOK_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\AA_2012\EE - TOK\TOK\TOK_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/images/AA_2012/Exams/exam_paper_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\AA_2012\Exams\exam_paper_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/challenge-Qs-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\challenge-Qs-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage-thumbnails.inthinking.net/ib/mathhlsl/images/_Site/Calculus/differentiation basics/diff_basics_img01.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\images\_Site\Calculus\differentiation basics\diff_basics_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/33-exam-tips-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\33-exam-tips-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/basics/syllabus-content2-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\basics\syllabus-content2-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/calculus/images/intparts_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\calculus\images\intparts_img1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/calculus/images/leibniz_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\calculus\images\leibniz_img1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/5_stages_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\5_stages_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/articles/articles_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\articles\articles_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criteria_table_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criteria_table_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criteriona_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criteriona_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criterionb_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criterionb_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criterionc_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criterionc_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criteriond_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criteriond_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criterione-hl_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criterione-hl_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/criterione-sl_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\criterione-sl_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/exp_ideas_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\exp_ideas_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/exploration/top_tips_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\exploration\top_tips_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/other_chngs_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\other_chngs_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/quad_app_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\quad_app_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/ans2_transform.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\ans2_transform.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/curve_sketch_q1a_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\curve_sketch_q1a_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/curve_sketch_q1b_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\curve_sketch_q1b_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/curve_sketch_q1_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\curve_sketch_q1_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/q1_transform.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\q1_transform.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/q2_transform.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\q2_transform.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/q3_transform.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\q3_transform.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/q4_transform.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\q4_transform.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/transform_act_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\transform_act_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/transform_act_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\transform_act_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/functions/transformations/trans_img_1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\functions\transformations\trans_img_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/geometry---trig/amb_case_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\geometry---trig\amb_case_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/geometry---trig/questions/sas_ansc_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\geometry---trig\questions\sas_ansc_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/geometry---trig/questions/sas_q1b_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\geometry---trig\questions\sas_q1b_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/geometry---trig/questions/sas_q2b_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\geometry---trig\questions\sas_q2b_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/geometry---trig/questions/sas_q3b_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\geometry---trig\questions\sas_q3b_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/partial_sums_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\partial_sums_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/5-girls-run-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\5-girls-run-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/coffee-shop-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\coffee-shop-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/perm-comb-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\perm-comb-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/perm-comb-table3-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\perm-comb-table3-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/perm-list800-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\perm-list800-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/perm-to-comb-hw-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\perm-to-comb-hw-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/perm-to-comb-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\perm-to-comb-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/permutations-combinations/tree-diag-15-coffees.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\permutations-combinations\tree-diag-15-coffees.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/84-mode-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\84-mode-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/84-seq-list-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\84-seq-list-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/84-seq-wiz-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\84-seq-wiz-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/84-seqc-wiz-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\84-seqc-wiz-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/arith-img01.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\arith-img01.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/arith-img1a.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\arith-img1a.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/arith-img2a.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\arith-img2a.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/ch-ans-img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\ch-ans-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/challeng-q-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\challeng-q-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/gauss-img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\gauss-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/geo-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\geo-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/geo-seq-graph-ex2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\geo-seq-graph-ex2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/geo-seq-series-img01.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\geo-seq-series-img01.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/leon2_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\leon2_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/lilly_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\lilly_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nmbr-terms-q-img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nmbr-terms-q-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire-ctlg-seq2-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire-ctlg-seq2-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire-ctlg-seqn-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire-ctlg-seqn-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire-lilly-data-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire-lilly-data-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire-lilly-graph1-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire-lilly-graph1-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire-lilly-graph2-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire-lilly-graph2-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire-solve-geo-seq-ex1b-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire-solve-geo-seq-ex1b-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/nspire_seqac_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\nspire_seqac_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/scooter.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\scooter.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/seq-intro-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\seq-intro-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/seq-series-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\seq-series-img0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/sigma-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\sigma-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/ti84_geo1_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\ti84_geo1_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/ti84_geo1_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\ti84_geo1_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/seq-series/ti84_seqa_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\seq-series\ti84_seqa_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/number---algebra/sktch_der_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\number---algebra\sktch_der_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw-15-pentagon.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw-15-pentagon.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw-16-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw-16-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw-17-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw-17-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw-17-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw-17-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw-17-img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw-17-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw4_soln_fig1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw4_soln_fig1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw4_soln_fig2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw4_soln_fig2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw5_soln_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw5_soln_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw5_soln_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw5_soln_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw5_soln_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw5_soln_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_10_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_10_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_10_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_10_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_11_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_11_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_img4a.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_img4a.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_soln_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_soln_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_soln_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_soln_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_soln_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_soln_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_soln_img4.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_soln_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_12_soln_img5.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_12_soln_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_13_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_13_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_14_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_14_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_15_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_15_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_18_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_18_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_1_soln_img1b.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_1_soln_img1b.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_1_soln_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_1_soln_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_1_soln_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_1_soln_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_1_soln_img4.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_1_soln_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_1_soln_img5.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_1_soln_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_2_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_2_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_2_soln_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_2_soln_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_3_graph.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_3_graph.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_3_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_3_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_4_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_4_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_4_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_4_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_5_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_5_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_5_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_5_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_6_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_6_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_6_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_6_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_6_soln_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_6_soln_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_7_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_7_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_7_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_7_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_7_soln_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_7_soln_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_8_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_8_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_8_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_8_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_8_soln_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_8_soln_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_8_soln_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_8_soln_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_8_soln_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_8_soln_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_9_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_9_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/potw_9_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\potw_9_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/images/problems-pg-img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\images\problems-pg-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/potw_1_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\potw_1_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/prob-of-week/potw_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\prob-of-week\potw_img0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/review/review_tests_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\review\review_tests_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-events/dice-in-hand_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-events\dice-in-hand_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-events/table_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-events\table_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/buffon_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\buffon_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/head_tail_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\head_tail_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/nspire_coin_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\nspire_coin_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/nspire_coin_prgm_results.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\nspire_coin_prgm_results.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/prob_formula2_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\prob_formula2_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/prob_img0a.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\prob_img0a.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/prob_img11.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\prob_img11.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/s_space1_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\s_space1_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/tri_nmbrs2_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\tri_nmbrs2_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/tri_nmbrs3_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\tri_nmbrs3_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/stats---probability/probability-student/tri_nmbrs4_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\stats---probability\probability-student\tri_nmbrs4_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/tok/john-napier-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\tok\john-napier-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/tok/napiers-table-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\tok\napiers-table-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/tok/slide-rule-book.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\tok\slide-rule-book.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/tok/slide-rule-img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\tok\slide-rule-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/tok/using-slide-rule.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\tok\using-slide-rule.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/analysis/toolkit/nspire-tips-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\analysis\toolkit\nspire-tips-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq1.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq1.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq2.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq2.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq3.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq3.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq4.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq4.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq5.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq5.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq6.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq6.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/eq7.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\eq7.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Algebra-Review.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Algebra-Review.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Area-Between-Two-Curves.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Area-Between-Two-Curves.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Area-of-a-Triangle.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Area-of-a-Triangle.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Argand-Diagram.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Argand-Diagram.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Bearings-Demonstration.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Bearings-Demonstration.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Binomial-Distribution.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Binomial-Distribution.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Cosine-Rule.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Cosine-Rule.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Definite-Integral-Intro.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Definite-Integral-Intro.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Degrees-and-Radians.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Degrees-and-Radians.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Differentiation-Rule-Recognition.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Differentiation-Rule-Recognition.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Factorising---Expanding.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Factorising---Expanding.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Find-the-Function-1.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Find-the-Function-1.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Find-the-Function-2.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Find-the-Function-2.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Find-the-Function-3.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Find-the-Function-3.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Fractions-Decimals---Percents.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Fractions-Decimals---Percents.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Function-Explorer.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Function-Explorer.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Gradient-Slope-Explorer.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Gradient-Slope-Explorer.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Graph-Transformations.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Graph-Transformations.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Integer-Calculations.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Integer-Calculations.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Integration-Mixed-Exercises.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Integration-Mixed-Exercises.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Inverse-Function-Graphs.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Inverse-Function-Graphs.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Inverse-Functions.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Inverse-Functions.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Linear-Motion.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Linear-Motion.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Linear-Quadratic---Cubic-Functions.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Linear-Quadratic---Cubic-Functions.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Mandelbrot-Set.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Mandelbrot-Set.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Max-Volume-of-a-Box.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Max-Volume-of-a-Box.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Max-Volume-of-a-Cone.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Max-Volume-of-a-Cone.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Mean-Median---Standard-Deviation.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Mean-Median---Standard-Deviation.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Modelling-Linear-Motion.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Modelling-Linear-Motion.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Normal-Distribution.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Normal-Distribution.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Poisson-Distribution.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Poisson-Distribution.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Rearranging-Formulae.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Rearranging-Formulae.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Roots-of-Polynomials.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Roots-of-Polynomials.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Scientific-Notation.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Scientific-Notation.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Secant-Line-to-Tangent-Line.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Secant-Line-to-Tangent-Line.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Significant-Figures.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Significant-Figures.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Standard-Deviation.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Standard-Deviation.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Sum---Product-of-Roots-of-a-Polynomial.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Sum---Product-of-Roots-of-a-Polynomial.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Transformations-of-Trig-Graphs.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Transformations-of-Trig-Graphs.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/files/Technology/TI-Nspire-Activities/Vector-Properties---Scalar-Product.tns
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\files\Technology\TI-Nspire-Activities\Vector-Properties---Scalar-Product.tns
+Content Type: binary/octet-stream
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/3-interior-tangent-circles.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\3-interior-tangent-circles.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/area-parab-rect/area-parab-rect-img1A.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\area-parab-rect\area-parab-rect-img1A.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/area-parab-rect/area-parab-rect-solution-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\area-parab-rect\area-parab-rect-solution-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/circle-prob-solution.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\circle-prob-solution.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Equ-Tri-Int-Point-Prop/equi_tri_6.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Equ-Tri-Int-Point-Prop\equi_tri_6.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/exp-logs-challenge-Qs/exp_log_chall_Qs_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\exp-logs-challenge-Qs\exp_log_chall_Qs_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/prob-3-pieces/prob-3-pieces-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\prob-3-pieces\prob-3-pieces-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/quartic_graph2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\quartic_graph2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/radius-of-earth/diagram_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\radius-of-earth\diagram_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/radius-of-earth/figure-2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\radius-of-earth\figure-2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/radius-of-earth/figure1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\radius-of-earth\figure1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/radius-of-earth/show-formula-1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\radius-of-earth\show-formula-1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/radius-of-earth/show-formula-2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\radius-of-earth\show-formula-2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/eqn1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\eqn1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/eqn2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\eqn2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/eqn4.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\eqn4.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/integral_1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\integral_1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/integral_2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\integral_2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/integral_3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\integral_3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/torus-img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\torus-img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/torus_setup_img0.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\torus_setup_img0.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/Torus/torus_solution_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\Torus\torus_solution_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/trig-proof1-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\trig-proof1-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/Challenge-Qs/trig_proof1_soln.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\Challenge-Qs\trig_proof1_soln.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Assessment/IA/student-guide/exp-guide-img3B.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Assessment\IA\student-guide\exp-guide-img3B.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/blank-sp2.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\blank-sp2.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/blank-sp5.gif
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\blank-sp5.gif
+Content Type: image/gif
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Blogs/half-the-area/half_area_prob_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Blogs\half-the-area\half_area_prob_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Blogs/half-the-area/half_area_soln_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Blogs\half-the-area\half_area_soln_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Technology/TI-Nspire Top Tips/ti-nspire_cx_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Technology\TI-Nspire Top Tips\ti-nspire_cx_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Technology/TI-Nspire-Activities/Nspire-Alg-Fun-Eqn-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Technology\TI-Nspire-Activities\Nspire-Alg-Fun-Eqn-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Technology/TI-Nspire-Activities/Nspire-calculus-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Technology\TI-Nspire-Activities\Nspire-calculus-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Technology/TI-Nspire-Activities/Nspire-PLT-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Technology\TI-Nspire-Activities\Nspire-PLT-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Technology/TI-Nspire-Activities/Nspire-stat-prob-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Technology\TI-Nspire-Activities\Nspire-stat-prob-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathanalysis/images/_Site/Technology/TI-Nspire-Activities/Nspire-Trig-Vectors-img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathanalysis\images\_Site\Technology\TI-Nspire-Activities\Nspire-Trig-Vectors-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_1-5_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_1-5_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_8_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_8_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_9-10_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_9-10_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_11_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_11_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_12_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_12_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_13_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_13_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_14_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_14_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_15_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_15_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_17-19_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_17-19_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/ans_q_20-22_img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\ans_q_20-22_img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/chain_rule_1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\chain_rule_1.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/chain_rule_2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\chain_rule_2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/int_sub_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\int_sub_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/int_sub_img4.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\int_sub_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-by-sub/int_sub_img5.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-by-sub\int_sub_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-parts/int_parts_img2.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-parts\int_parts_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Calculus/integration-parts/int_parts_img3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Calculus\integration-parts\int_parts_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Teaching Materials/Functions-Equations/basic-composite-inverse/inv-fnctns-img.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Teaching Materials\Functions-Equations\basic-composite-inverse\inv-fnctns-img.jpg
+Content Type: image/jpeg
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/files/Technology/TI-Nspire-Activities/ti-nspire_activities_41.zip
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\files\Technology\TI-Nspire-Activities\ti-nspire_activities_41.zip
+Content Type: application/zip
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/images/biography/tim-garry.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\images\biography\tim-garry.png
+Content Type: image/png
+
+Uri: https://teacher-sites-storage.inthinking.net/ib/mathhlsl/images/_Site/Technology/TI-Nspire-Activities/Nspire_activities_img1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\ib\mathhlsl\images\_Site\Technology\TI-Nspire-Activities\Nspire_activities_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://unpkg.com/mathlive@0.86.0/dist/mathlive.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathlive@0.86.0\dist\mathlive.min.js
+Content Type: application/javascript
+
+Uri: https://www.parabola.unsw.edu.au/files/articles/2000-2009/volume-37-2001/issue-1/vol37_no1_3.pdf
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\files\articles\2000-2009\volume-37-2001\issue-1\vol37_no1_3.pdf
+Content Type: application/pdf
+
+Uri: https://www.student.thinkib.net/assets/css/ckeditor5-custom.css
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\assets\css\ckeditor5-custom.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/article.min.css?v=202212151220
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\article.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/side-nav.min.css?v=20220520
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\side-nav.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/snippets.min.css?v=202210181500
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\snippets.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/std-access.min.css?v=20220504
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\std-access.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/std/dashboard.min.css?v=20220214
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\std\dashboard.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/std/frontpage.min.css?v=20220113
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\std\frontpage.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/style-ib.min.css?v=20230105
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\style-ib.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/style.min.css?v=20230110
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\style.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/tablesorter/theme.blue.css
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\tablesorter\theme.blue.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/css/top-nav.min.css?v=202211301945
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\css\top-nav.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/favicon-128.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\favicon-128.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/favicon-196x196.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\favicon-196x196.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/favicon/student-thinkib/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\favicon\student-thinkib\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/header-logo.svg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\header-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.student.thinkib.net/img/header-thinker-sib.svg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\header-thinker-sib.svg
+Content Type: image/svg+xml
+
+Uri: https://www.student.thinkib.net/img/icons/activities.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\activities.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/icons/exercise-set.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\exercise-set.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/icons/question.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\question.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/icons/solution-key.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\solution-key.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/icons/student-handout.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\student-handout.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/icons/teacher-notes.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\teacher-notes.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/icons/tests.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\icons\tests.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/inthinking-world-logo-80.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\inthinking-world-logo-80.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/subject-sites-home/ib/std-dashboard/mathanalysis-1.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\subject-sites-home\ib\std-dashboard\mathanalysis-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/subject-sites-home/ib/std-dashboard/mathanalysis-3.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\subject-sites-home\ib\std-dashboard\mathanalysis-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/subject-sites-home/ib/std/englishb.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\subject-sites-home\ib\std\englishb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/subject-sites-home/ib/std/history.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\subject-sites-home\ib\std\history.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/subject-sites-home/ib/std/mathanalysis.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\subject-sites-home\ib\std\mathanalysis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/tib-icons/higher-level-16.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\tib-icons\higher-level-16.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/tib-icons/higher-level-24.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\tib-icons\higher-level-24.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/tib-icons/standard-level-16.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\tib-icons\standard-level-16.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/tib-icons/standard-level-24.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\tib-icons\standard-level-24.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/img/user/e/3a7aa6e9e7f44695e22.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\user\e\3a7aa6e9e7f44695e22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/user/e/f1901ca2178929f1e177.jpg
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\user\e\f1901ca2178929f1e177.jpg
+Content Type: image/jpeg
+
+Uri: https://www.student.thinkib.net/img/user/generic/32-generic-user.png
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\img\user\generic\32-generic-user.png
+Content Type: image/png
+
+Uri: https://www.student.thinkib.net/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/cookies.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\cookies.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/gifffer/gifffer-player.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\gifffer\gifffer-player.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/gifffer/gifffer.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\gifffer\gifffer.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/header-circle.min.js?v=20220113
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\header-circle.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/ifvisible.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\ifvisible.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-fancybox/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/js/jq-fancybox/jquery.fancybox.pack.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-fancybox\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-mark.js/jquery.mark.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-mark.js\jquery.mark.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-tablesorter/jquery.tablesorter.pager.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-tablesorter\jquery.tablesorter.pager.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-tablesorter/jquery.tablesorter.widget-filter-formatter-select2.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-tablesorter\jquery.tablesorter.widget-filter-formatter-select2.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-tablesorter/jquery.tablesorter.widgets.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-tablesorter\jquery.tablesorter.widgets.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-tablesorter/jquery.tablesorter@2.31.3.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-tablesorter\jquery.tablesorter@2.31.3.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jq-tablesorter/pager-custom-controls.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jq-tablesorter\pager-custom-controls.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/localdates.min.js?v=202009290900
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\localdates.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/select2/css/select2.css
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\select2\css\select2.css
+Content Type: text/css
+
+Uri: https://www.student.thinkib.net/js/select2/js/select2.min.js
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\select2\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/session-updater.js?v=20200831
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\session-updater.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/sidemenu/sidemenu.min.js?v=202011301145
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\sidemenu\sidemenu.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std-access/std-assignments-utils.min.js?v=202211281800
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std-access\std-assignments-utils.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std-access/std-comments-utils.min.js?v=202211281800
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std-access\std-comments-utils.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std-access/std-front-page.min.js?v=20220113
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std-access\std-front-page.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std/std-dashboard.min.js?v=202211151130
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std\std-dashboard.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std/std-task-quizzes.min.js?v=202211151130
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std\std-task-quizzes.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std/std-task-tracking.min.js?v=20211202
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std\std-task-tracking.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/std/std-task-utils.min.js?v=202211151130
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\std\std-task-utils.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/tib-quizzes-utils.min.js?v=202211151130
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\tib-quizzes-utils.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/tib-quizzes.min.js?v=202211282022
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\tib-quizzes.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/user/local-stats.min.js?v=202102101800
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\user\local-stats.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/js/user/user-stats-page.min.js?v=202102101800
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\js\user\user-stats-page.min.js
+Content Type: application/javascript
+
+Uri: https://www.student.thinkib.net/mathanalysis
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/biography/177/kevin-frederick
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\biography\177\kevin-frederick.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/biography/22/tim-garry
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\biography\22\tim-garry.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/go/27844
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\go\27844.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/go/27845
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\go\27845.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/go/27846
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\go\27846.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/go/27847
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\go\27847.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/go/27848
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\go\27848.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/go/27849
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\go\27849.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27702/basics
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27702\basics.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27728/assessment
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27728\assessment.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27729/problem-of-the-week
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27729\problem-of-the-week.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27735/ia-exploration
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27735\ia-exploration.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27736/exploration-ia-ideas
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27736\exploration-ia-ideas.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27741/exploration-student-guide
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27741\exploration-student-guide.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27744/managing-the-exploration
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27744\managing-the-exploration.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27748/exams
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27748\exams.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27749/mock-exams
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27749\mock-exams.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27751/review-exams
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27751\review-exams.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27755/exam-tips-for-students
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27755\exam-tips-for-students.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27757/challenge-problems
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27757\challenge-problems.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27758/3-circles-inside-a-circle
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27758\3-circles-inside-a-circle.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27759/half-the-area
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27759\half-the-area.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27760/area-relationship-parabola-rectangle
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27760\area-relationship-parabola-rectangle.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27761/equilateral-triangle-interior-point-property
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27761\equilateral-triangle-interior-point-property.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27762/exponents-logarithms-challenge-qs
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27762\exponents-logarithms-challenge-qs.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27763/probability-of-3-pieces-forming-a-triangle
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27763\probability-of-3-pieces-forming-a-triangle.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27764/quartic-with-three-real-zeros
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27764\quartic-with-three-real-zeros.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27765/radius-of-the-earth
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27765\radius-of-the-earth.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27766/trigonometry-proof-1
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27766\trigonometry-proof-1.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27767/volume-of-a-torus
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27767\volume-of-a-torus.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27768/1-number-algebra
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27768\1-number-algebra.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27778/2-functions
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27778\2-functions.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27790/3-geometry-trigonometry
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27790\3-geometry-trigonometry.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27802/4-statistics-probability
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27802\4-statistics-probability.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27809/5-calculus
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27809\5-calculus.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27832/ib-core
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27832\ib-core.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27837/theory-of-knowledge
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27837\theory-of-knowledge.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27841/technology
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27841\technology.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27843/ti-nspire-activities
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27843\ti-nspire-activities.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27844/prior-learning-topics
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27844\prior-learning-topics.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27845/algebra-functions-equations
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27845\algebra-functions-equations.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27846/trigonometry-vectors
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27846\trigonometry-vectors.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27847/statistics-probability
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27847\statistics-probability.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27848/calculus
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27848\calculus.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/27849/ti-nspire-top-tips
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\27849\ti-nspire-top-tips.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/30074/toolkit
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\30074\toolkit.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/30095/proofs-mathematical-induction-115
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\30095\proofs-mathematical-induction-115.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31711/potw-1
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31711\potw-1.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31747/potw-1-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31747\potw-1-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31776/potw-2
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31776\potw-2.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31787/potw-2-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31787\potw-2-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31800/potw-3
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31800\potw-3.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31802/potw-3-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31802\potw-3-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31931/potw-4
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31931\potw-4.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/31955/potw-4-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\31955\potw-4-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/32074/potw-5
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\32074\potw-5.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/32075/potw-5-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\32075\potw-5-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/32326/potw-6
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\32326\potw-6.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/32352/sample-mock-exams
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\32352\sample-mock-exams.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/32356/potw-6-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\32356\potw-6-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/32548/potw-7
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\32548\potw-7.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/33386/math-articles-for-students
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\33386\math-articles-for-students.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/33944/integration-by-substitution-tutorial
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\33944\integration-by-substitution-tutorial.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34015/integration-by-parts-tutorial
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34015\integration-by-parts-tutorial.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34020/ambiguous-case-side-side-angle-ssa
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34020\ambiguous-case-side-side-angle-ssa.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34022/transformations-of-graphs
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34022\transformations-of-graphs.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34029/partial-sums-race
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34029\partial-sums-race.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34031/sketch-the-derivative
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34031\sketch-the-derivative.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34033/differentiation-basics
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34033\differentiation-basics.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34036/other-changes-to-a-graph
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34036\other-changes-to-a-graph.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34092/quadratic-functions-equations
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34092\quadratic-functions-equations.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34108/factored-quadratic-applet
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34108\factored-quadratic-applet.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34281/potw-7-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34281\potw-7-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34306/probability-introduction-sn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34306\probability-introduction-sn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34382/potw-8
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34382\potw-8.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34429/potw-8-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34429\potw-8-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34484/probability-of-events-tn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34484\probability-of-events-tn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34534/potw-9
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34534\potw-9.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34548/potw-9-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34548\potw-9-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34586/triangle-trig-applications
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34586\triangle-trig-applications.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34833/1a-sequences-series-intro-sn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34833\1a-sequences-series-intro-sn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/34896/1b-arithmetic-sequences-series-sn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\34896\1b-arithmetic-sequences-series-sn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35084/syllabus-content-sn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35084\syllabus-content-sn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35096/1c-geometric-sequences-series-sn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35096\1c-geometric-sequences-series-sn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35145/potw-problems-students
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35145\potw-problems-students.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35146/potw-10
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35146\potw-10.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35154/potw-10-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35154\potw-10-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35299/potw-11
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35299\potw-11.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35300/potw-11-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35300\potw-11-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35951/potw-12
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35951\potw-12.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/35963/potw-12-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\35963\potw-12-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/36072/inverse-functions
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\36072\inverse-functions.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/36432/permutations-combinations-sn
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\36432\permutations-combinations-sn.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/37077/potw-13
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\37077\potw-13.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/37078/potw-13-solution
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\37078\potw-13-solution.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/40859/potw-14
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\40859\potw-14.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/42951/potw-15
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\42951\potw-15.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/43466/transformations-interactive-practice
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\43466\transformations-interactive-practice.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/45539/potw-16
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\45539\potw-16.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/45589/the-invention-of-logarithms
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\45589\the-invention-of-logarithms.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/45593/probability-complement-approach
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\45593\probability-complement-approach.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/45688/potw-17
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\45688\potw-17.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/45765/ia-idea-1-building-parabolas
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\45765\ia-idea-1-building-parabolas.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/page/46552/potw-18
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\page\46552\potw-18.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/task/301550/einfuhrung-wahrscheinlichkeit
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\task\301550\einfuhrung-wahrscheinlichkeit.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis/task/417720/sequences-series
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis\task\417720\sequences-series.html
+Content Type: text/html
+
+Uri: https://www.student.thinkib.net/mathanalysis?lg=27105
+File Name: C:\Downloaded Web Sites\Maths AA\www.student.thinkib.net\mathanalysis-1.html
+Content Type: text/html
+
