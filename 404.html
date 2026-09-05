@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Search & Resource Finder - ThinkIB</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fr3ddykru3g3r.github.io/ThinkIB-Websites/css/style.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body { background: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #0f172a; margin: 0; padding: 24px; }
+    .container { max-width: 1100px; margin: 0 auto; background: #fff; border-radius: 10px; border: 1px solid #e2e8f0; padding: 32px; box-shadow: 0 4px 16px rgba(0,0,0,0.04); }
+    .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 16px; margin-bottom: 24px; }
+    .btn-back { background: #0284c7; color: #fff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; border: none; cursor: pointer; }
+    .btn-back:hover { background: #0369a1; }
+    .card { padding: 16px 20px; border: 1px solid #e2e8f0; border-radius: 8px; background: #fff; margin-bottom: 14px; }
+    .card a { font-size: 16px; font-weight: 700; color: #0284c7; text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+    .card p { margin: 6px 0 8px; color: #475569; font-size: 13.5px; line-height: 1.5; }
+    .card .path { font-size: 11px; color: #94a3b8; font-family: monospace; }
+  </style>
+</head>
+<body>
+  <div class="container" id="app">
+    <div class="header">
+      <div>
+        <h1 style="margin: 0; font-size: 24px; color: #0f172a;" id="title">
+          <i class="fa fa-search" style="color: #0284c7; margin-right: 10px;"></i>
+          Searching Vault...
+        </h1>
+        <p style="margin: 6px 0 0; color: #64748b; font-size: 14px;" id="count">Looking up matching syllabus resources</p>
+      </div>
+      <button onclick="window.history.back()" class="btn-back">
+        <i class="fa fa-arrow-left"></i> Back
+      </button>
+    </div>
+    <div id="results">
+      <div style="text-align: center; padding: 40px; color: #64748b;">
+        <i class="fa fa-spinner fa-spin fa-2x" style="color: #0284c7; margin-bottom: 12px;"></i>
+        <div>Searching all InThinking study resources...</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      var query = new URLSearchParams(window.location.search).get('s') || '';
+      var titleEl = document.getElementById('title');
+      var countEl = document.getElementById('count');
+      var resultsEl = document.getElementById('results');
+
+      if (!query) {
+        var match = window.location.href.match(/[?&]s=([^&#]*)/);
+        if (match) query = decodeURIComponent(match[1]);
+      }
+
+      var base = 'https://fr3ddykru3g3r.github.io/ThinkIB-Websites/';
+
+      if (!query) {
+        titleEl.innerHTML = '<i class="fa fa-compass" style="color: #0284c7; margin-right: 10px;"></i> InThinking Resource Navigator';
+        countEl.textContent = 'Please choose a subject syllabus or use the search bar above';
+        resultsEl.innerHTML = '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; margin-top: 16px;">' +
+          '<a href="' + base + 'mathanalysis/index.html" class="card" style="text-decoration: none; display: block;"><strong>Mathematics AA</strong><p>96 modules + 61 mock exams</p></a>' +
+          '<a href="' + base + 'chem/chemistry.html" class="card" style="text-decoration: none; display: block;"><strong>Chemistry</strong><p>Structure & reactivity guides</p></a>' +
+          '<a href="' + base + 'bio_psych/biology.html" class="card" style="text-decoration: none; display: block;"><strong>Biology</strong><p>Unity, Diversity, Interaction</p></a>' +
+          '<a href="' + base + 'bio_psych/psychology.html" class="card" style="text-decoration: none; display: block;"><strong>Psychology</strong><p>Biological & cognitive approach</p></a>' +
+          '<a href="' + base + 'bm_econ/businessmanagement.html" class="card" style="text-decoration: none; display: block;"><strong>Business Management</strong><p>HRM, finance, marketing</p></a>' +
+          '<a href="' + base + 'bm_econ/economics.html" class="card" style="text-decoration: none; display: block;"><strong>Economics</strong><p>Micro, macro, global trade</p></a>' +
+          '<a href="' + base + 'history/index.html" class="card" style="text-decoration: none; display: block;"><strong>History</strong><p>Authoritarian states & conflicts</p></a>' +
+          '<a href="' + base + 'englisha/englishalanglit.html" class="card" style="text-decoration: none; display: block;"><strong>English A</strong><p>Textual analysis & paper guides</p></a>' +
+        '</div>';
+        return;
+      }
+
+      titleEl.innerHTML = '<i class="fa fa-search" style="color: #0284c7; margin-right: 10px;"></i> Search Results: <span style="color: #0284c7;">"' + query + '"</span>';
+
+      fetch(base + 'search_index.json')
+        .then(function(res) { return res.json(); })
+        .then(function(items) {
+          var terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+          var scored = [];
+          for (var i = 0; i < items.length; i++) {
+            var it = items[i];
+            if (it.sub === 'englishb') continue;
+            var tLow = (it.t || '').toLowerCase();
+            var cLow = (it.c || '').toLowerCase();
+            var sLow = (it.s || '').toLowerCase();
+            var kLow = (it.k || '').toLowerCase();
+            var score = 0;
+            var allMatch = true;
+            for (var j = 0; j < terms.length; j++) {
+              var term = terms[j];
+              var match = false;
+              if (tLow.indexOf(term) !== -1) { score += 25; match = true; }
+              if (cLow.indexOf(term) !== -1) { score += 12; match = true; }
+              if (sLow.indexOf(term) !== -1) { score += 6; match = true; }
+              if (kLow.indexOf(term) !== -1) { score += 4; match = true; }
+              if (!match) { allMatch = false; break; }
+            }
+            if (allMatch) scored.push({ item: it, score: score });
+          }
+          scored.sort(function(a, b) { return b.score - a.score; });
+
+          countEl.innerHTML = 'Found <strong>' + scored.length + '</strong> matching resources';
+
+          if (!scored.length) {
+            resultsEl.innerHTML = '<div style="padding: 40px; text-align: center; color: #64748b;">' +
+              '<h3>No resources found for "' + query + '"</h3>' +
+              '<p>Try searching for broader terms like "calculus", "bonding", "paper 1", or "equilibrium".</p>' +
+            '</div>';
+            return;
+          }
+
+          var html = '<div style="display: flex; flex-direction: column; gap: 12px; margin-top: 16px;">';
+          for (var k = 0; k < scored.length; k++) {
+            var it = scored[k].item;
+            var href = base + it.p;
+            var tag = it.c || it.sub;
+            html += '<div class="card">' +
+              '<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px;">' +
+                '<a href="' + href + '"><i class="fa fa-file-text-o" style="margin-right: 8px;"></i>' + it.t + '</a>' +
+                (tag ? '<span style="font-size: 11px; font-weight: 600; background: #f1f5f9; padding: 2px 8px; border-radius: 4px; text-transform: uppercase;">' + tag + '</span>' : '') +
+              '</div>' +
+              (it.s ? '<p>' + it.s + '</p>' : '') +
+              '<div class="path">' + it.p + '</div>' +
+            '</div>';
+          }
+          html += '</div>';
+          resultsEl.innerHTML = html;
+        })
+        .catch(function() {
+          resultsEl.innerHTML = '<div style="padding: 30px; text-align: center; color: #ef4444;">Error loading search index. Please refresh the page.</div>';
+        });
+    })();
+  </script>
+</body>
+</html>
